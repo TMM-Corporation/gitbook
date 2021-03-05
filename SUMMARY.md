@@ -1,15 +1,20 @@
 # Table of contents
 
 * [О нас](README.md)
+
+## Сайты <a id="sites"></a>
+
 * [Наш сайт](https://toxesfoxes.github.io/Web/)
+* [Вконтакте](https://vk.com/tmm_corporation)
+* [Github](https://github.com/ToxesFoxes)
 
 ## Моды <a id="mods"></a>
 
-* [Matrix Mod](mods/matrix-mod.md)
 * [Chisel](mods/chisel.md)
 * [Divine Favor](mods/divine-favor.md)
-* [UI Editor](mods/ui-editor.md)
+* [Matrix Mod](mods/matrix-mod.md)
 * [ModifiedRP](mods/modifiedrp.md)
+* [UI Editor](mods/ui-editor.md)
 * [ValkyrieMods](mods/valkyriemods.md)
 
 ## Библиотеки <a id="libraries"></a>
