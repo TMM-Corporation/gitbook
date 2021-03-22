@@ -2,11 +2,11 @@
 
 * [О нас](README.md)
 
-## Вопрос&Ответ
+## Вопрос&Ответ <a id="question-and-answer"></a>
 
-* [Horizon \| InnerCore](vopros-and-otvet/horizon-or-innercore/README.md)
-  * [Моддинг](vopros-and-otvet/horizon-or-innercore/modding.md)
-  * [Ошибки](vopros-and-otvet/horizon-or-innercore/oshibki.md)
+* [Horizon \| InnerCore](question-and-answer/horizon-or-innercore/README.md)
+  * [Моддинг](question-and-answer/horizon-or-innercore/modding.md)
+  * [Ошибки](question-and-answer/horizon-or-innercore/errors.md)
 
 ## Ссылки <a id="links"></a>
 
