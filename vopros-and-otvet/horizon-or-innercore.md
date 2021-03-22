@@ -14,9 +14,13 @@ description: >-
 
 Старый добрый Minecraft BE 1.11.4 который более не будет обновляться. Также поддержка некоторыми модами этой версии будет прекращена.
 
-## Как поставить свой resource/behavior пак?
+## Как поставить свой ресурспак, аддон, шейдеры?
 
+Для ресурспаков \(resource\_pack\) - /sdcard/games/horizon/packs/&lt;имя пака&gt;/resource\_packs
 
+Для аддонов \(behavior\_pack\) - /sdcard/games/horizon/packs/&lt;имя пака&gt;/behavior\_packs
+
+Шейдеры - это тот же ресурспак
 
 ## Что делать если не заходит в Horizon Modding Kernel?
 
