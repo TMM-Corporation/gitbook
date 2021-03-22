@@ -2,6 +2,11 @@
 
 * [О нас](README.md)
 
+## Вопрос&Ответ
+
+* [Моддинг](vopros-and-otvet/modding.md)
+* [Horizon \| InnerCore](vopros-and-otvet/horizon-or-innercore.md)
+
 ## Сайты <a id="sites"></a>
 
 * [Наш сайт](https://toxesfoxes.github.io/Web/)
