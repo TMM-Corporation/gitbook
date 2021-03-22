@@ -4,8 +4,9 @@
 
 ## Вопрос&Ответ
 
-* [Моддинг](vopros-and-otvet/modding.md)
-* [Horizon \| InnerCore](vopros-and-otvet/horizon-or-innercore.md)
+* [Horizon \| InnerCore](vopros-and-otvet/horizon-or-innercore/README.md)
+  * [Моддинг](vopros-and-otvet/horizon-or-innercore/modding.md)
+  * [Ошибки](vopros-and-otvet/horizon-or-innercore/oshibki.md)
 
 ## Ссылки <a id="links"></a>
 
@@ -15,7 +16,7 @@
 * [TMM Вконтакте](https://vk.com/tmm_corporation)
 * [TMM Github](https://github.com/ToxesFoxes)
 
-## Моды <a id="mods"></a>
+## Наши Моды <a id="mods"></a>
 
 * [Chisel](mods/chisel.md)
 * [Divine Favor](mods/divine-favor.md)
