@@ -7,11 +7,13 @@
 * [Моддинг](vopros-and-otvet/modding.md)
 * [Horizon \| InnerCore](vopros-and-otvet/horizon-or-innercore.md)
 
-## Сайты <a id="sites"></a>
+## Ссылки <a id="links"></a>
 
+* [Скачать Horizon Modding Kernel](http://play.google.com/store/apps/details?id=com.zheka.horizon)
+* [Horizon \| InnerCore Вконтакте](https://vk.com/core_engine)
 * [Наш сайт](https://toxesfoxes.github.io/Web/)
-* [Вконтакте](https://vk.com/tmm_corporation)
-* [Github](https://github.com/ToxesFoxes)
+* [TMM Вконтакте](https://vk.com/tmm_corporation)
+* [TMM Github](https://github.com/ToxesFoxes)
 
 ## Моды <a id="mods"></a>
 
