@@ -62,21 +62,47 @@ description: 'Тут публикуются овтеты на вопросы, с
 
 ## Чем  отличаются паки IC \| IC Test \| IC Legacy ?
 
-Обычный пак InnerCore более стабильный и имеет последнюю версию Minecraft BE 1.16.201
+**InnerCore** - _обычный_ пак, более стабильный и имеет последнюю версию Minecraft BE 1.16.201
 
-Тестовый пак InnerCore Test имеет эксперементальные возможности. Более нестабилен. Имеет последнюю версию MCBE 1.16.201
+**InnerCore Test** - это _тестовый_ пак имеет эксперементальные возможности. Более нестабилен. Имеет последнюю версию MCBE 1.16.201
 
-Старый добрый Minecraft BE 1.11.4 который более не будет обновляться. Также поддержка некоторыми модами этой версии будет прекращена.
+**InnerCore Legacy** - это _старый_ пак имеющий Minecraft BE 1.11.4 который более не будет обновляться. Также поддержка некоторыми модами этой версии пака будет прекращена.
 
 ## Как поставить свой ресурспак, аддон, шейдеры?
 
-Для ресурспаков \(resource\_pack\) - /sdcard/games/horizon/packs/&lt;имя пака&gt;/resource\_packs
+Для ресурспаков \(resource\_pack\) - /sdcard/games/horizon/packs/&lt;имя пака&gt;/innercore/resource\_packs
 
-Для аддонов \(behavior\_pack\) - /sdcard/games/horizon/packs/&lt;имя пака&gt;/behavior\_packs
+Для аддонов \(behavior\_pack\) - /sdcard/games/horizon/packs/&lt;имя пака&gt;/innercore/behavior\_packs
 
 Шейдеры - это тот же ресурспак
 
-## 
+## Расположения
 
+Миры находятся в папке `/sdcard/games/horizon/packs/<имя пака>/worlds`
 
+Модпаки находятся в папке `/sdcard/games/horizon/packs/<имя пака>/modpacks`
+
+Моды находятся в папке `/sdcard/games/horizon/packs/<имя пака>/innercore/mods`
+
+## Зачем нужны папки/файлы
+
+* В папке /sdcard/games/horizon/
+  * behavior\_packs - Туда копируются все аддоны используемые паком, папка каждый раз очищается
+  * resource\_packs - Туда копируются все ресурспаки используемые паком, папка каждый раз очищается
+* В папке /sdcard/games/horizon/packs/&lt;имя пака&gt;/
+  * assets - Здесь находятся все ресурсы приложения
+  * innercore - данные пака InnerCore
+  * java - Java составляющая данного пака
+  * native - C++ / Нативная составляющая пака
+  * native\_mods - папка для нативных модов
+  * so - C++ Библиотекии используемые паком
+  * .cached\_graphics - zip архив с ресурсами пака
+  * .installation\_complete, .installation\_info, .installation\_started - файлы состояния установки
+  * manifest.json - данные об паке
+* В папке /sdcard/games/horizon/packs/&lt;имя пака&gt;/innercore
+  * cache - кэш текстур для InnerCore
+  * coreengine - исходные js файлы InnerCore
+  * config.json - туда сохраняются все настройки InnerCore
+  * furnace.json - содержит данные о горении предметов в тиках
+  * inner-core.log - содержит лог innercore
 
