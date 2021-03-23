@@ -1,13 +1,10 @@
 # Table of contents
 
 * [О нас](README.md)
-
-## Вопрос&Ответ <a id="question-and-answer"></a>
-
-* [Horizon \| InnerCore](question-and-answer/horizon-or-innercore/README.md)
-  * [Изменения](question-and-answer/horizon-or-innercore/izmeneniya.md)
-  * [Моддинг](question-and-answer/horizon-or-innercore/modding.md)
-  * [Ошибки](question-and-answer/horizon-or-innercore/errors.md)
+* [Horizon \| InnerCore](horizon-or-innercore/README.md)
+  * [Изменения](horizon-or-innercore/izmeneniya.md)
+  * [Моддинг](horizon-or-innercore/modding.md)
+  * [Ошибки](horizon-or-innercore/errors.md)
 
 ## Ссылки <a id="links"></a>
 
