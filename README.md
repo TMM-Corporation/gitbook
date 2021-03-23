@@ -1,26 +1,24 @@
 ---
 description: >-
-  Мы портируем и создаем моды практически любой сложности. Моды создаются под
-  Android приложение Horizon Modding Kernel для пака InnerCore.
+  We port and create mods of almost any complexity. Mods are created for the
+  Android app Horizon Modding Kernel for the InnerCore pack.
 ---
 
 # О нас
 
-## Я хочу задать вопрос, куда мне обратиться?
+## I want to ask a question, where should I apply?
 
-### По вопросу работы сторонней модификации
+### On the issue of the work of a third-party modification
 
-Обратится к разработчикам модификации если на странице мода есть ссылка для связи с автором
+Will contact the developers of the modification if the mod page has a link to contact the author If there is no link, you can contact our group, we will try to pass your question or direct you to the developer
 
-При отсутствии ссылки связи можете обратиться в нашу группу, мы постараемся передать ваш вопрос или направить вас к разработчику
+### For questions about creating modifications
 
-### По вопросам создания модификаций
+It is better to contact the general chat of our group in Vkontakte where some mod developers are sitting
 
-Лучше обратиться в общий чат нашей группы в Вконтакте где сидят некоторые разработчики модов
+### For questions about our modifications/errors and other things
 
-### По вопросам наших модификаций/ошибок и прочего
-
-Обращаться в личные сообщения группы в Вконтакте
+Contact the group's private messages in Vkontakte
 
 ## Все наши проекты:
 

@@ -4,44 +4,44 @@ description: 'Тут публикуются овтеты на вопросы, с
 
 # Horizon \| InnerCore
 
-## Как установить/удалить пак?
+## How to install / remove a pack?
 
-Чтобы установить пак необходимо нажать большую кнопку + и выбрать интересующий вас пак.
+To install the pack, click the large + button and select the pack you are interested in.
 
-Чтобы удалить уже скачанный/не установленный пак, необходимо зажать по паку и откроется контекстное пака, имеющее следущее содержание: 
+To delete an already downloaded/not installed pack, you need to click on the park and a context menu will open, which has the following content:
 
-* Добавить в избранное - пометить как избранный пак
-* Клонировать - дублирует пак полностью со всеми мирами и модами
-* Переустановить - полностью переустанавливает пак из кэша с сохранением данных
-* Переименовать - визуально переименовать название пака
-* Показать информацию - открывает диалоговое окно с данными об паке, такими как:
-  * Заголовок - Полное имя пака
-  * Описание пака
-  * Game - для какой игры создан
-  * Version - Версия текущего пака и последняя доступная версия
-  * State - статус пака
-    * Installed - установлен
-    * Pending - ожидается скачивание
-    * NOT\_INSTALLED - не установлен
-  * Local directory - путь к паку от /sdcard/games/horizon/packs
-  * External UUID - UUID пака
-  * Кнопка показа истории изменений - открывает полную историю изменений
-* Удалить - полностью удаляет все данные пака в т.ч миры, ресурспаки, моды и тп
+* Add to favorites - mark as a favorite pack
+* Clone - duplicates the pack completely with all worlds and mods
+* Reinstall - completely reinstalls the package from the cache with the data saved
+* Reinstall - completely reinstalls the package from the cache with the data saved
+* Show information - opens a dialog box with information about the package, such as:
+  * Title - The full name of the pack
+  * Pack Description
+  * Game - What game was created for
+  * Version - The version of the current pack and the latest available version
+  * State - pack status
+    * Installed - pack is already installed
+    * Pending - expected download and installation
+    * NOT\_INSTALLED - not downloaded and not installed
+  * Local directory -path to the pack from /sdcard/games/horizon/packs
+  * External UUID - UUID of pack
+  * Show change history button - opens the full change history
+* Delete - completely deletes all pack data, including measures, resource packs, mods, etc.
 
-## Как пользоваться паком?
+## How to use the InnerCore pack?
 
-В главном меню паков есть 5 кнопок:
+There are 5 buttons in the main pack menu:
 
-1. **Играть** - кнопка по центру, котораю запускает игру
-2. **Нативные моды** - кнопка в правой части меню, менеджер нативных модов для игры
-3. **Менеджер модов** - ваш бразуер модов для игры
-   1. Скачать моды - вкладка в которой вы можете скачать любые моды к игре
-   2. Мои моды - вкладка ваших установленных модов
-   3. Сборки модов - готовые сборки модов которые создаются разработчиками
-   4. Обновления - список модов у которых есть обновления
-   5. Перейти на сайт - открывает полноценный сайт модов к игре
-4. **Настройки и ссылки** 
-   1. Настройки пака InnerCore
+1. **Play** - the button in the center that starts the game
+2. **Native mods** - button on the right side of the menu, manager of active mods for the game
+3. **Mod manager** - your browser mods for the game
+   1. Download mods - a tab where you can download any mods for the game
+   2. My mods - tab of your installed mods
+   3. Mod packs - ready-made modpack that are created by developers
+   4. Updates - список модов у которых есть обновления
+   5. Visit Website - opens a full-fledged site of mods for the game
+4. **Settings and Links**
+   1. InnerCore Pack Settings
       1. **Отключить экран загрузки** - отображение экрана загрузки модов, при включении на некоторых устройствах может ускорить загрузку
       2. **Режим разработчика** - полезно для создателей модов, включает в поддерживаемых модах режим отладки.
       3. **Ограничение обновлений по вермени** - количество обновлений модов в тик будет ограничено временем выполнения, иначе количеством обновленных объектов. Проще говоря сколько вызовов в тик могут делать моды.
