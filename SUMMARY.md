@@ -2,7 +2,7 @@
 
 * [О нас](README.md)
 * [Horizon \| InnerCore](horizon-or-innercore/README.md)
-  * [Изменения](horizon-or-innercore/izmeneniya.md)
+  * [Изменения](horizon-or-innercore/changelog.md)
   * [Моддинг](horizon-or-innercore/modding.md)
   * [Ошибки](horizon-or-innercore/errors.md)
 
