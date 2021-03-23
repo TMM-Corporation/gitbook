@@ -5,6 +5,7 @@
 ## Вопрос&Ответ <a id="question-and-answer"></a>
 
 * [Horizon \| InnerCore](question-and-answer/horizon-or-innercore/README.md)
+  * [Изменения](question-and-answer/horizon-or-innercore/izmeneniya.md)
   * [Моддинг](question-and-answer/horizon-or-innercore/modding.md)
   * [Ошибки](question-and-answer/horizon-or-innercore/errors.md)
 
