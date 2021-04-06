@@ -20,5 +20,9 @@ description: >-
 
 ## Где можно найти список предметов/блоков и их id?
 
-На сайте [www.minecraftinfo.com/idlist.htm](https://www.minecraftinfo.com/idlist.htm) также там есть строковые id блоков
+На сайте [www.minecraftinfo.com/idlist.htm](https://www.minecraftinfo.com/idlist.htm), также там есть строковые id блоков
+
+## Где можно найти документацию по Bedrock Edition?
+
+На сайте [wiki.bedrock.dev/documentation](https://wiki.bedrock.dev/documentation/) - документация по аддонам на бедрок
 
