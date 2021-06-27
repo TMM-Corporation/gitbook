@@ -100,9 +100,12 @@ description: 'Тут публикуются овтеты на вопросы, с
   * .installation\_complete, .installation\_info, .installation\_started - файлы состояния установки
   * manifest.json - данные об паке
 * В папке /sdcard/games/horizon/packs/&lt;имя пака&gt;/innercore
+  * behavior\_packs - сюда можно добавлять behavior паки
   * cache - кэш текстур для InnerCore
   * coreengine - исходные js файлы InnerCore
+  * mods - папка с модами для InnerCore
+  * resource\_packs - сюда можно добавлять ресурспаки
   * config.json - туда сохраняются все настройки InnerCore
   * furnace.json - содержит данные о горении предметов в тиках
-  * inner-core.log - содержит лог innercore
+  * inner-core.log - содержит полный лог innercore
 
